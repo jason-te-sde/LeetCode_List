@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0001-two-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/jason-te-sde/LeetCode_List/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
@@ -13,4 +14,8 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/jason-te-sde/LeetCode_List/tree/master/0424-longest-repeating-character-replacement) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
