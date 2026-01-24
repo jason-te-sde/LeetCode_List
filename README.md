@@ -24,6 +24,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jason-te-sde/LeetCode_List/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jason-te-sde/LeetCode_List/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
@@ -45,4 +46,12 @@
 |  |
 | ------- |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jason-te-sde/LeetCode_List/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jason-te-sde/LeetCode_List/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
