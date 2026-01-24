@@ -21,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jason-te-sde/LeetCode_List/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/jason-te-sde/LeetCode_List/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0680-valid-palindrome-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/jason-te-sde/LeetCode_List/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
