@@ -68,4 +68,12 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/jason-te-sde/LeetCode_List/tree/master/0162-find-peak-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0339-nested-list-weight-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0339-nested-list-weight-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0339-nested-list-weight-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0339-nested-list-weight-sum) |
 <!---LeetCode Topics End-->
