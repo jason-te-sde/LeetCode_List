@@ -1,24 +1,26 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
-# 1. First pass: Clean up all extra closing parentheses ')' from left to right.
-        s = self.delete_invalid_closing(s, "(", ")")
-# 2. Second pass: Reverse the string and remove extra opening parentheses '(' from the other direction.
-        s = self.delete_invalid_closing(s[::-1], ")", "(")
-        
-# Reverse one last time to restore the original order.
-        return s[::-1]
-        
-    
-    def delete_invalid_closing(self, string, open_symbol, close_symbol):
-        sb = []
+        # Pass 1: Remove all invalid ")"
+        first_pass_chars = []
         balance = 0
-        for c in string:
-# 3. Core Logic: Use a counter to track balance; skip (delete) any bracket that doesn't have a matching partner.
-            if c == open_symbol:
+        open_seen = 0
+        for c in s:
+            if c == "(":
                 balance += 1
-            if c == close_symbol:
+                open_seen += 1
+            if c == ")":
                 if balance == 0:
                     continue
                 balance -= 1
-            sb.append(c)
-        return "".join(sb)
+            first_pass_chars.append(c)
+
+        # pass 2: remove the rightmost "("
+        result = []
+        open_to_keep = open_seen - balance
+        for c in first_pass_chars:
+            if c == "(":
+                open_to_keep -= 1
+                if open_to_keep < 0:
+                    continue
+            result.append(c)
+        return "".join(result)
