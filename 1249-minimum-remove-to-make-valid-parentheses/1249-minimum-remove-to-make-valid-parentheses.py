@@ -1,26 +1,28 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
-        # Pass 1: Remove all invalid ")"
-        first_pass_chars = []
-        balance = 0
-        open_seen = 0
-        for c in s:
-            if c == "(":
+        """
+        TC:O(n)
+        SC:O(n)
+        """
+        # 1 pass : clean up extra invalid ")"
+        s = self.delete_invalid_closing(s, "(", ")")
+
+        # 2 pass : clean up extra invalid "("
+        s = self.delete_invalid_closing(s[::-1], ")", "(")
+
+        # revsed to restore the original string
+        return s[::-1]
+
+    def delete_invalid_closing(slef, string, open_symbol, close_symbol):
+        sb = []
+        balance = 0 # match "()"
+        for c in string:
+            if c == open_symbol:
                 balance += 1
-                open_seen += 1
-            if c == ")":
+            elif c == close_symbol:
                 if balance == 0:
                     continue
                 balance -= 1
-            first_pass_chars.append(c)
-
-        # pass 2: remove the rightmost "("
-        result = []
-        open_to_keep = open_seen - balance
-        for c in first_pass_chars:
-            if c == "(":
-                open_to_keep -= 1
-                if open_to_keep < 0:
-                    continue
-            result.append(c)
-        return "".join(result)
+            sb.append(c)
+        return "".join(sb)
+        
