@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/jason-te-sde/LeetCode_List/tree/master/0424-longest-repeating-character-replacement) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
