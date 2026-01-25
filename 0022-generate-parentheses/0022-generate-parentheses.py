@@ -1,21 +1,16 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         """
-        TC: O(4^n/n^(1/2))
+        divide and conquer
+        TC: O(4^n / sqrt(n))
         SC: O(n)
         """
+        if n == 0:
+            return [""]
         answer = []
-        def backtracking(cur_string, left_count, right_count):
-            if len(cur_string) == 2 * n:
-                answer.append("".join(cur_string))
-                return
-            if left_count < n:
-                cur_string.append("(")
-                backtracking(cur_string, left_count + 1, right_count)
-                cur_string.pop()
-            if right_count < left_count:
-                cur_string.append(")")
-                backtracking(cur_string, left_count, right_count + 1)
-                cur_string.pop()
-        backtracking([], 0, 0)
+        for left_count in range(n):
+            for left_string in self.generateParenthesis(left_count):
+                for right_string in self.generateParenthesis(n - 1 - left_count):
+                    answer.append("(" + left_string + ")" + right_string)
         return answer
+        
