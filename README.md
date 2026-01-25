@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/0022-generate-parentheses) |
 | [0408-valid-word-abbreviation](https://github.com/jason-te-sde/LeetCode_List/tree/master/0408-valid-word-abbreviation) |
 | [0424-longest-repeating-character-replacement](https://github.com/jason-te-sde/LeetCode_List/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0680-valid-palindrome-ii) |
@@ -27,6 +28,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/jason-te-sde/LeetCode_List/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jason-te-sde/LeetCode_List/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jason-te-sde/LeetCode_List/tree/master/0002-add-two-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
