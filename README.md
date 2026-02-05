@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/0022-generate-parentheses) |
 | [0408-valid-word-abbreviation](https://github.com/jason-te-sde/LeetCode_List/tree/master/0408-valid-word-abbreviation) |
 | [0424-longest-repeating-character-replacement](https://github.com/jason-te-sde/LeetCode_List/tree/master/0424-longest-repeating-character-replacement) |
@@ -51,6 +52,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/0020-valid-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Math
 |  |
