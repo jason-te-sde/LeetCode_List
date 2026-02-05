@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/jason-te-sde/LeetCode_List/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/jason-te-sde/LeetCode_List/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
@@ -27,6 +28,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jason-te-sde/LeetCode_List/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/jason-te-sde/LeetCode_List/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/jason-te-sde/LeetCode_List/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/jason-te-sde/LeetCode_List/tree/master/0217-contains-duplicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
