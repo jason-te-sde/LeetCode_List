@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jason-te-sde/LeetCode_List/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/jason-te-sde/LeetCode_List/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jason-te-sde/LeetCode_List/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jason-te-sde/LeetCode_List/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/0022-generate-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0387-first-unique-character-in-a-string) |
@@ -22,6 +24,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jason-te-sde/LeetCode_List/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/jason-te-sde/LeetCode_List/tree/master/0424-longest-repeating-character-replacement) |
 ## Array
 |  |
