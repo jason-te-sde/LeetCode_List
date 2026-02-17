@@ -32,6 +32,7 @@
 | [0001-two-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jason-te-sde/LeetCode_List/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/jason-te-sde/LeetCode_List/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jason-te-sde/LeetCode_List/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jason-te-sde/LeetCode_List/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
@@ -74,6 +75,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jason-te-sde/LeetCode_List/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0408-valid-word-abbreviation](https://github.com/jason-te-sde/LeetCode_List/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/jason-te-sde/LeetCode_List/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jason-te-sde/LeetCode_List/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Depth-First Search
 |  |
 | ------- |
