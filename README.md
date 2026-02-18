@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/jason-te-sde/LeetCode_List/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jason-te-sde/LeetCode_List/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/jason-te-sde/LeetCode_List/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jason-te-sde/LeetCode_List/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -48,6 +49,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/jason-te-sde/LeetCode_List/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jason-te-sde/LeetCode_List/tree/master/0217-contains-duplicate) |
 ## Heap (Priority Queue)
