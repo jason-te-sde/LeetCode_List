@@ -1,5 +1,16 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
+        // Time Complexity: O(n^2)
+        // Space Complexity: O(n)
+        /*
+            1. sort arrays
+            2. fixed an element i, use double pointers scan
+            left and right.
+            3. when the sum is 0, save into results, else move
+            pointers and skip the duplicates.
+            4. if sum < 0, move the left pointer right,
+            if sum > 0, move the right pointer left.
+        */
         Arrays.sort(nums);
         List<List<Integer>> res = new ArrayList<>();
 
