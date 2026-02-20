@@ -1,7 +1,7 @@
 class Solution {
     public int lengthOfLongestSubstringKDistinct(String s, int k) {
         //  Time Complexity: O(n)
-        //  Space Complexity: O(n)
+        //  Space Complexity: O(k)
         /*  1. use HashMap to record the number of occurrences  
             of characters in the window.
             2. When meets a new character, expend the window.
