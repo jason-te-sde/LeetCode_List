@@ -1,5 +1,14 @@
 class Solution {
     public int lengthOfLongestSubstringKDistinct(String s, int k) {
+        //  Time Complexity: O(n)
+        //  Space Complexity: O(n)
+        /*  1. use HashMap to record the number of occurrences  
+            of characters in the window.
+            2. When meets a new character, expend the window.
+            3. when the number of characters in the window
+            exceeds k, shirink the window <= k.
+            4. Update maximum length for each loop.
+        */
         if(s == null || s.length() == 0 || k == 0) return 0;
 
         Map<Character, Integer> map = new HashMap<>();
