@@ -37,6 +37,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/jason-te-sde/LeetCode_List/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/jason-te-sde/LeetCode_List/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jason-te-sde/LeetCode_List/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jason-te-sde/LeetCode_List/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/jason-te-sde/LeetCode_List/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/jason-te-sde/LeetCode_List/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jason-te-sde/LeetCode_List/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/jason-te-sde/LeetCode_List/tree/master/0042-trapping-rain-water) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Math
 |  |
@@ -87,6 +90,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/jason-te-sde/LeetCode_List/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jason-te-sde/LeetCode_List/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0408-valid-word-abbreviation](https://github.com/jason-te-sde/LeetCode_List/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0680-valid-palindrome-ii) |
@@ -127,4 +131,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jason-te-sde/LeetCode_List/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
