@@ -1,5 +1,9 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
+        """
+        time complexity : O(n)
+        space complexity: O(1)
+        """
         if len(nums) == 0:
             return 0
         fast, slow = 0, 0
