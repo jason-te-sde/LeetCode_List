@@ -5,6 +5,10 @@
 #         self.next = next
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        """
+            time complexity : O(n)
+            space complexity : O(1)
+        """
         if head is None:
             return None
         slow = head
