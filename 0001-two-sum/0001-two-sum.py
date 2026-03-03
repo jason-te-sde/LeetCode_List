@@ -6,7 +6,4 @@ class Solution:
             if complement in hashmap:
                 return [i, hashmap[complement]]
             hashmap[nums[i]] = i
-        # return an empty list if no solution is found
-        return []
-
-        
+        return [-1, -1]
