@@ -2,52 +2,32 @@ class LRUCache:
 
     def __init__(self, capacity: int):
         self.capacity = capacity
-        self.dic = {}
-        self.head = ListNode(-1, -1)
-        self.tail = ListNode(-1, -1)
-        self.head.next = self.tail
-        self.tail.prev = self.head
+        self.cache = collections.OrderedDict()
         
     def get(self, key: int) -> int:
-        if key not in self.dic:
+        if key not in self.cache:
             return -1
         
-        node = self.dic[key]
-        self.remove (node)
-        self.add(node)
-        return node.value
-
-    def put(self, key: int, value: int) -> None:
-        if key in self.dic:
-            oldNode = self.dic[key]
-            self.remove(oldNode)
+        self.makeRecently(key)
+        return self.cache[key]
         
-        node = ListNode(key, value)
-        self.dic[key] = node
-        self.add(node)
-
-        if len(self.dic) > self.capacity:
-            nodeToDelete = self.head.next
-            self.remove(nodeToDelete)
-            del self.dic[nodeToDelete.key]
-
-    def add(self, node):
-        previousEnd = self.tail.prev
-        previousEnd.next = node
-        node.prev = previousEnd
-        node.next = self.tail
-        self.tail.prev = node
+    def put(self, key: int, value: int) -> None:
+        if key in self.cache:
+            self.cache[key] = value
+            self.makeRecently(key)
+            return
+        
+        if len(self.cache) >= self.capacity:
+            oldestKey = next(iter(self.cache))
+            self.cache.pop(oldestKey)
+        
+        self.cache[key] = value
     
-    def remove(self, node):
-        node.prev.next = node.next
-        node.next.prev = node.prev
+    def makeRecently(self, key: int) -> None:
+        value = self.cache.pop(key)
+        self.cache[key] = value
+        
 
-class ListNode:
-    def __init__(self, key, value):
-        self.key = key
-        self.value = value
-        self.next = None
-        self.prev = None
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
