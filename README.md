@@ -17,6 +17,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jason-te-sde/LeetCode_List/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/jason-te-sde/LeetCode_List/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/jason-te-sde/LeetCode_List/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/jason-te-sde/LeetCode_List/tree/master/0076-minimum-window-substring) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/jason-te-sde/LeetCode_List/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/jason-te-sde/LeetCode_List/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/jason-te-sde/LeetCode_List/tree/master/0146-lru-cache) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/jason-te-sde/LeetCode_List/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
