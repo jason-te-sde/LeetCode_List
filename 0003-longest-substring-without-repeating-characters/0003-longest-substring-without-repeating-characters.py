@@ -2,7 +2,7 @@ class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         """
             Time Complexity: O(n)
-            Space Complexity: O()
+            Space Complexity: O(min(n, k))
         """
         max_length = 0
         left, right = 0, 0
@@ -16,6 +16,6 @@ class Solution:
             while window[c] > 1:
                 d = s[left]
                 left += 1
-                window[d] = window.get(d, 0) - 1
+                window[d] -= 1
             max_length = max(max_length, right - left)
         return max_length
