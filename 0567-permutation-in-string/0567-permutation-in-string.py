@@ -1,5 +1,9 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
+        """
+            Time Complexity : O(len(s2))
+            Space Complexity: O(1)
+        """
         left, right = 0, 0
         have, need = {}, {}
         valid = 0
