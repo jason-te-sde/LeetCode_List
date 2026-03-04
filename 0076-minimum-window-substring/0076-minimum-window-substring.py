@@ -1,39 +1,35 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-
-        """
-            Time Complexity: O(len(s) * len(t))
-            Space Complexity: O(len(t))
-        """
-        if t == "":
-            return ""
+        window, need = {}, {}
+        left, right = 0, 0
+        valid = 0
+        max_length = float("inf")
+        res = ""
         
-        countT, window = {}, {}
         for c in t:
-            countT[c] = 1 + countT.get(c, 0)
-        
-        have, need = 0, len(countT)
-        res, resLen = [-1, -1], float("infinity")
-        l = 0
-        for r in range(len(s)):
-            c = s[r]
-            window[c] = 1 + window.get(c, 0)
+            need[c] = 1 + need.get(c, 0)
 
-            if c in countT and window[c] == countT[c]:
-                have += 1
+        while right < len(s):
+            c = s[right]      
+            window[c] = window.get(c, 0) + 1
             
-            while have == need:
-                if (r - l + 1) < resLen:
-                    res = [l, r]
-                    resLen = r - l + 1
+            if c in need and need[c] == window[c]:
+                valid += 1
             
-                window[s[l]] -= 1
-                if s[l] in countT and window[s[l]] < countT[s[l]]:
-                    have -= 1
-                l += 1
+            while valid == len(need):
+                if right - left + 1 < max_length:
+                    res = s[left : right + 1]
+                    max_length = right - left + 1
+                
+                window[s[left]] -= 1
+                if s[left] in need and window[s[left]] < need[s[left]]:
+                    valid -= 1
+                left += 1
+            right += 1
 
-        l, r = res
-        return s[l : r + 1] if resLen != float("infinity") else ""
+        return res if max_length != float("inf") else ""
+            
+
 
 
         
