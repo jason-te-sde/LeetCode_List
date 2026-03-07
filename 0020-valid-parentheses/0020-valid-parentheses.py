@@ -1,5 +1,9 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+        """
+            Time Complexity : O(n)
+            Space Complexity: O(n)
+        """
         stack = []
         mappings = {")" : "(", "}" : "{", "]" : "["}
         for c in s:
