@@ -11,4 +11,4 @@ class Solution:
             fast += 1
         for i in range(slow, len(nums)):
             nums[i] = 0
-        
+        return
