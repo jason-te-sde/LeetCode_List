@@ -6,6 +6,10 @@
 #         self.right = right
 class Solution:
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        """
+            Time Complexity : O(n)
+            Space Conplexity: O(n)
+        """
         res = []
         if root is None:
             return res
