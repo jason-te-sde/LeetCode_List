@@ -98,6 +98,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jason-te-sde/LeetCode_List/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0144-binary-tree-preorder-traversal) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Math
@@ -139,6 +140,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0144-binary-tree-preorder-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0339-nested-list-weight-sum) |
 ## Breadth-First Search
@@ -186,9 +188,11 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
