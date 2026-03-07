@@ -59,6 +59,7 @@
 | [0049-group-anagrams](https://github.com/jason-te-sde/LeetCode_List/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/jason-te-sde/LeetCode_List/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jason-te-sde/LeetCode_List/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/jason-te-sde/LeetCode_List/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jason-te-sde/LeetCode_List/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/jason-te-sde/LeetCode_List/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jason-te-sde/LeetCode_List/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/jason-te-sde/LeetCode_List/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/jason-te-sde/LeetCode_List/tree/master/0078-subsets) |
 ## Queue
 |  |
 | ------- |
@@ -212,4 +214,8 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0145-binary-tree-postorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/jason-te-sde/LeetCode_List/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
