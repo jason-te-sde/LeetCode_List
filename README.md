@@ -102,6 +102,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Math
 |  |
@@ -147,6 +148,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0145-binary-tree-postorder-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0339-nested-list-weight-sum) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
