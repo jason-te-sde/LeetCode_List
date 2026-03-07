@@ -55,6 +55,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jason-te-sde/LeetCode_List/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/jason-te-sde/LeetCode_List/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/jason-te-sde/LeetCode_List/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/jason-te-sde/LeetCode_List/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/jason-te-sde/LeetCode_List/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jason-te-sde/LeetCode_List/tree/master/0057-insert-interval) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/jason-te-sde/LeetCode_List/tree/master/0046-permutations) |
 ## Queue
 |  |
 | ------- |
