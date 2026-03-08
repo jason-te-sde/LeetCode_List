@@ -54,6 +54,7 @@
 | [0018-4sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jason-te-sde/LeetCode_List/tree/master/0027-remove-element) |
+| [0040-combination-sum-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/jason-te-sde/LeetCode_List/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/jason-te-sde/LeetCode_List/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/jason-te-sde/LeetCode_List/tree/master/0049-group-anagrams) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jason-te-sde/LeetCode_List/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/jason-te-sde/LeetCode_List/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/jason-te-sde/LeetCode_List/tree/master/0078-subsets) |
