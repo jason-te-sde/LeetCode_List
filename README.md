@@ -25,6 +25,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jason-te-sde/LeetCode_List/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/jason-te-sde/LeetCode_List/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/jason-te-sde/LeetCode_List/tree/master/0076-minimum-window-substring) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/jason-te-sde/LeetCode_List/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -131,6 +132,7 @@
 | [0018-4sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jason-te-sde/LeetCode_List/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/jason-te-sde/LeetCode_List/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jason-te-sde/LeetCode_List/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/jason-te-sde/LeetCode_List/tree/master/0283-move-zeroes) |
@@ -230,4 +232,8 @@
 | ------- |
 | [0078-subsets](https://github.com/jason-te-sde/LeetCode_List/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0090-subsets-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
