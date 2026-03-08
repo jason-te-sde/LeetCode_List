@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/jason-te-sde/LeetCode_List/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/jason-te-sde/LeetCode_List/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/jason-te-sde/LeetCode_List/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0015-3sum) |
@@ -83,6 +84,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jason-te-sde/LeetCode_List/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -148,6 +150,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jason-te-sde/LeetCode_List/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/jason-te-sde/LeetCode_List/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jason-te-sde/LeetCode_List/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Depth-First Search
