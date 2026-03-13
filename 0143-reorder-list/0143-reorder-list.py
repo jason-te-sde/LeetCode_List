@@ -8,22 +8,19 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        slow, fast = head, head
-        while fast and fast.next:
-            slow = slow.next
-            fast = fast.next.next
+        stk = []
+        p = head
+        while p is not None:
+            stk.append(p)
+            p = p.next
         
-        second = slow.next
-        prev = slow.next = None
-        while second:
-            tmp = second.next
-            second.next = prev
-            prev = second
-            second = tmp
-        
-        first, second = head, prev
-        while second:
-            tmp1, tmp2 = first.next, second.next
-            first.next = second
-            second.next = tmp1
-            first, second = tmp1, tmp2
+        p = head
+        while p is not None:
+            lastNode = stk.pop()
+            next = p.next
+            if lastNode == next or lastNode.next == next:
+                lastNode.next = None
+                break
+            p.next = lastNode
+            lastNode.next = next
+            p = next
