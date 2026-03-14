@@ -9,7 +9,6 @@ class Solution:
         res = []
         if root is None:
             return res
-
         q = deque()
         q.append(root)
         while q:
@@ -17,11 +16,10 @@ class Solution:
             level = []
             for i in range(sz):
                 cur = q.popleft()
-                level.append(cur.val)
                 if cur.left is not None:
                     q.append(cur.left)
                 if cur.right is not None:
                     q.append(cur.right)
+                level.append(cur.val)
             res.append(level)
         return res
-        
