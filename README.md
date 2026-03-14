@@ -173,6 +173,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0226-invert-binary-tree) |
 | [0339-nested-list-weight-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0339-nested-list-weight-sum) |
+| [0572-subtree-of-another-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
@@ -246,6 +247,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
@@ -257,6 +259,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0572-subtree-of-another-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -266,4 +269,9 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
