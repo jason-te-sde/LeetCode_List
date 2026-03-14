@@ -2,28 +2,28 @@ class Solution:
     def __init__(self):
         self.res = []
         self.track = []
-        self.trackSum = 0
 
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        if len(candidates) == 0:
-            return res
-        self.backtrack(candidates, 0, target)
+        if not candidates:
+            return self.res
+        self.backtrack(candidates, 0, target, 0)
         return self.res
     
-    def backtrack(self, nums: List[int], start: int, target: int) -> None:
-        if self.trackSum == target:
-            self.res.append(self.track[:])
+    def backtrack(self, candidates, start, target, sum):
+        if sum == target:
+            self.res.append(self.track.copy())
             return
-        
-        if self.trackSum > target:
-            return 
-        
-        for i in range(start, len(nums)):
-            self.trackSum += nums[i]
-            self.track.append(nums[i])
+        if sum > target:
+            return
 
-            self.backtrack(nums, i, target)
+        for i in range(start, len(candidates)):
+            self.track.append(candidates[i])
+            sum += candidates[i]
 
-            self.trackSum -= nums[i]
+            self.backtrack(candidates, i, target, sum)
+
+            sum -= candidates[i]
             self.track.pop()
+
+
         
