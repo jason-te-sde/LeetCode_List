@@ -168,6 +168,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0145-binary-tree-postorder-traversal) |
@@ -242,6 +243,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0144-binary-tree-preorder-traversal) |
@@ -256,6 +258,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0144-binary-tree-preorder-traversal) |
@@ -280,5 +283,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
