@@ -29,6 +29,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/jason-te-sde/LeetCode_List/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/jason-te-sde/LeetCode_List/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/jason-te-sde/LeetCode_List/tree/master/0079-word-search) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/jason-te-sde/LeetCode_List/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0344-reverse-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0387-first-unique-character-in-a-string) |
@@ -69,6 +70,7 @@
 | [0056-merge-intervals](https://github.com/jason-te-sde/LeetCode_List/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jason-te-sde/LeetCode_List/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/jason-te-sde/LeetCode_List/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jason-te-sde/LeetCode_List/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jason-te-sde/LeetCode_List/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -171,6 +173,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jason-te-sde/LeetCode_List/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0100-same-tree) |
@@ -219,6 +222,7 @@
 | [0047-permutations-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/jason-te-sde/LeetCode_List/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/jason-te-sde/LeetCode_List/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jason-te-sde/LeetCode_List/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0090-subsets-ii) |
 ## Queue
 |  |
@@ -295,4 +299,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/jason-te-sde/LeetCode_List/tree/master/0295-find-median-from-data-stream) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/jason-te-sde/LeetCode_List/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
