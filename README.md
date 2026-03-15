@@ -11,6 +11,7 @@
 | [0076-minimum-window-substring](https://github.com/jason-te-sde/LeetCode_List/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/jason-te-sde/LeetCode_List/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/jason-te-sde/LeetCode_List/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/jason-te-sde/LeetCode_List/tree/master/0217-contains-duplicate) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/jason-te-sde/LeetCode_List/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0387-first-unique-character-in-a-string) |
@@ -30,6 +31,7 @@
 | [0049-group-anagrams](https://github.com/jason-te-sde/LeetCode_List/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/jason-te-sde/LeetCode_List/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/jason-te-sde/LeetCode_List/tree/master/0079-word-search) |
+| [0208-implement-trie-prefix-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0208-implement-trie-prefix-tree) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/jason-te-sde/LeetCode_List/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0344-reverse-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0387-first-unique-character-in-a-string) |
@@ -240,6 +242,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/jason-te-sde/LeetCode_List/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/jason-te-sde/LeetCode_List/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
@@ -249,6 +252,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jason-te-sde/LeetCode_List/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0208-implement-trie-prefix-tree) |
 ## Tree
 |  |
 | ------- |
