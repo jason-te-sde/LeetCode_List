@@ -19,6 +19,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/jason-te-sde/LeetCode_List/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0567-permutation-in-string) |
+| [2336-smallest-number-in-infinite-set](https://github.com/jason-te-sde/LeetCode_List/tree/master/2336-smallest-number-in-infinite-set) |
 ## String
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/jason-te-sde/LeetCode_List/tree/master/0295-find-median-from-data-stream) |
+| [2336-smallest-number-in-infinite-set](https://github.com/jason-te-sde/LeetCode_List/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
 | ------- |
@@ -265,6 +267,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jason-te-sde/LeetCode_List/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/jason-te-sde/LeetCode_List/tree/master/0295-find-median-from-data-stream) |
+| [2336-smallest-number-in-infinite-set](https://github.com/jason-te-sde/LeetCode_List/tree/master/2336-smallest-number-in-infinite-set) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -350,4 +353,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jason-te-sde/LeetCode_List/tree/master/0207-course-schedule) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/jason-te-sde/LeetCode_List/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
