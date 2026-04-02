@@ -1,16 +1,12 @@
 class Solution:
     def fib(self, n: int) -> int:
-        memo = [-1] * (n + 1)
-
-        return self.dp(memo, n)
-    
-    def dp(self, memo: list, n: int) -> int:
-        if n == 0 or n == 1:
+        if n ==0 or n == 1:
             return n
-        if memo[n] != -1:
-            return memo[n]
+        dp = [0] * (n + 1)
+        dp[0] = 0
+        dp[1] = 1
         
-        memo[n] = self.dp(memo, n - 1) + self.dp(memo, n - 2)
+        for i in range(2, n + 1):
+            dp[i] = dp[i - 1] + dp[i - 2]
 
-        return memo[n]
-        
+        return dp[n]
