@@ -85,6 +85,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jason-te-sde/LeetCode_List/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/jason-te-sde/LeetCode_List/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/jason-te-sde/LeetCode_List/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jason-te-sde/LeetCode_List/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/jason-te-sde/LeetCode_List/tree/master/0695-max-area-of-island) |
 ## Dynamic Programming
@@ -95,6 +96,7 @@
 | [0042-trapping-rain-water](https://github.com/jason-te-sde/LeetCode_List/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/jason-te-sde/LeetCode_List/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jason-te-sde/LeetCode_List/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/jason-te-sde/LeetCode_List/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/jason-te-sde/LeetCode_List/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -215,6 +217,7 @@
 | [0207-course-schedule](https://github.com/jason-te-sde/LeetCode_List/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0261-graph-valid-tree) |
+| [0322-coin-change](https://github.com/jason-te-sde/LeetCode_List/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jason-te-sde/LeetCode_List/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0339-nested-list-weight-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jason-te-sde/LeetCode_List/tree/master/0417-pacific-atlantic-water-flow) |
