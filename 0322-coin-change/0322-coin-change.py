@@ -1,5 +1,12 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
+        """
+            tag: dynamic programming
+            time complexity: O(m * n)
+            space complexity: O(n)
+            n = amount, m = len(coins)
+        """
+
         if amount == 0: # edge case 1
             return 0
         if amount < 0: # edge case 2
@@ -9,7 +16,7 @@ class Solution:
         # init
         dp[0] = 0
 
-        for i in range(1, len(dp)):
+        for i in range(1, len(dp)): # bottom -> top
             for coin in coins:
                 if i - coin < 0:
                     continue
