@@ -89,6 +89,7 @@
 | [0322-coin-change](https://github.com/jason-te-sde/LeetCode_List/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jason-te-sde/LeetCode_List/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/jason-te-sde/LeetCode_List/tree/master/0695-max-area-of-island) |
+| [1929-concatenation-of-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -366,4 +367,8 @@
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/jason-te-sde/LeetCode_List/tree/master/2336-smallest-number-in-infinite-set) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
