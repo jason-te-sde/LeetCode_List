@@ -1,22 +1,30 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         """
-            Time Complexity: O(n^2)
-            Space Complexity: O(1)
+            tag: two pointers
+            tc : O(n^2)
+            sc : O(n)
         """
-        res = ""
+
+        self.res = ""
+        self.resLen = 0
+
         for i in range(len(s)):
-            s1 = self.parlinedrome(s, i, i)
-            s2 = self.parlinedrome(s, i, i+1)
+            # odd length
+            self.isPalindorme(s, i, i)
 
-            res = res if len(res) > len(s1) else s1
-            res = res if len(res) > len(s2) else s2
+            # even length
+            self.isPalindorme(s, i, i + 1)
 
-        return res
-
-    def parlinedrome(self, s: str, l: int, r: int) -> str:
+        return self.res
+            
+    
+    def isPalindorme(self, s, l, r):
         while l >= 0 and r < len(s) and s[l] == s[r]:
-            l -= 1
+            if r - l + 1 > self.resLen:
+                self.res = s[l : r + 1]
+                self.resLen = r - l + 1
             r += 1
-        return s[l + 1: r]
-        
+            l -= 1
+
+            
