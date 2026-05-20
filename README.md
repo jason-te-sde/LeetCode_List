@@ -70,6 +70,7 @@
 | [0039-combination-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/jason-te-sde/LeetCode_List/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/jason-te-sde/LeetCode_List/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/jason-te-sde/LeetCode_List/tree/master/0049-group-anagrams) |
@@ -97,6 +98,7 @@
 | [0005-longest-palindromic-substring](https://github.com/jason-te-sde/LeetCode_List/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jason-te-sde/LeetCode_List/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/jason-te-sde/LeetCode_List/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/jason-te-sde/LeetCode_List/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jason-te-sde/LeetCode_List/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jason-te-sde/LeetCode_List/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0045-jump-game-ii) |
 | [0680-valid-palindrome-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
