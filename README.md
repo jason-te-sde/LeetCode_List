@@ -77,6 +77,7 @@
 | [0056-merge-intervals](https://github.com/jason-te-sde/LeetCode_List/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jason-te-sde/LeetCode_List/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/jason-te-sde/LeetCode_List/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jason-te-sde/LeetCode_List/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0090-subsets-ii) |
@@ -101,6 +102,7 @@
 | [0042-trapping-rain-water](https://github.com/jason-te-sde/LeetCode_List/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/jason-te-sde/LeetCode_List/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/jason-te-sde/LeetCode_List/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jason-te-sde/LeetCode_List/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -349,6 +351,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/jason-te-sde/LeetCode_List/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/jason-te-sde/LeetCode_List/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jason-te-sde/LeetCode_List/tree/master/0417-pacific-atlantic-water-flow) |
