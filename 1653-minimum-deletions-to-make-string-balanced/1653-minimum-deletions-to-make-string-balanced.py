@@ -1,22 +1,18 @@
 class Solution:
     def minimumDeletions(self, s: str) -> int:
         n = len(s)
-        countA = [n] * n
-        Acount = 0
+        # aCount = sum(1 for ch in s if ch == 'a')
+        aCount = s.count('a')
 
-        # First pass: compute countA which stores the number of 
-        # 'a' characters to the right of the current position
-        for i in range(n - 1, -1, -1):
-            countA[i] = Acount
-            if s[i] == 'a':
-                Acount += 1
-        
         minDeletions = n
-        Bcount = 0
-        # Second pass: compute minimum deletions on the fly
-        for i in range(n):
-            minDeletions = min(countA[i] + Bcount, minDeletions)
-            if s[i] == 'b':
-                Bcount += 1
+        bCount = 0
+        # Second pass: iterate through the string to compute minimum deletions
+        for ch in s:
+            if ch == 'a':
+                aCount -= 1
+
+            minDeletions = min(minDeletions, aCount + bCount)
+            if ch == 'b':
+                bCount += 1
         
         return minDeletions
