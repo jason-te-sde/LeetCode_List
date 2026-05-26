@@ -1,18 +1,17 @@
 class Solution:
     def minimumDeletions(self, s: str) -> int:
-        n = len(s)
-        # aCount = sum(1 for ch in s if ch == 'a')
-        aCount = s.count('a')
+        charStack = []
+        deleteCount = 0
 
-        minDeletions = n
-        bCount = 0
-        # Second pass: iterate through the string to compute minimum deletions
-        for ch in s:
-            if ch == 'a':
-                aCount -= 1
+        # Iterate through each character in the string
+        for char in s:
+            # If stack is not empty, top of stack is 'b',
+            # and current char is 'a'
 
-            minDeletions = min(minDeletions, aCount + bCount)
-            if ch == 'b':
-                bCount += 1
+            if charStack and charStack[-1] == "b" and char == "a":
+                charStack.pop() # Remove 'b' from stack
+                deleteCount += 1 # Increment deletion count
+            else:
+                charStack.append(char) # Append current character to stack
         
-        return minDeletions
+        return deleteCount
