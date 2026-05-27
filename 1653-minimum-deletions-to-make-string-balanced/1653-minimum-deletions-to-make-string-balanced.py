@@ -1,17 +1,23 @@
 class Solution:
     def minimumDeletions(self, s: str) -> int:
-        charStack = []
-        deleteCount = 0
+        """
+            tag : DP
+            tc  : O(n)
+            sc  : O(n)
+        """
+        n = len(s)
+        dp = [0] * (n + 1)
+        bCount = 0
 
-        # Iterate through each character in the string
-        for char in s:
-            # If stack is not empty, top of stack is 'b',
-            # and current char is 'a'
+        # dp[i]: The number of deletions required to
+        # balance the substring s[0, i)
 
-            if charStack and charStack[-1] == "b" and char == "a":
-                charStack.pop() # Remove 'b' from stack
-                deleteCount += 1 # Increment deletion count
+        for i in range(n):
+            if s[i] == 'b':
+                dp[i + 1] = dp[i]
+                bCount += 1
             else:
-                charStack.append(char) # Append current character to stack
+                # Two cases: remove 'a' or keep 'a'
+                dp[i + 1] = min(dp[i] + 1, bCount)
         
-        return deleteCount
+        return dp[n]
