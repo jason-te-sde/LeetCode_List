@@ -95,6 +95,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jason-te-sde/LeetCode_List/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/jason-te-sde/LeetCode_List/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/jason-te-sde/LeetCode_List/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/jason-te-sde/LeetCode_List/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jason-te-sde/LeetCode_List/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/jason-te-sde/LeetCode_List/tree/master/0695-max-area-of-island) |
@@ -114,6 +115,7 @@
 | [0139-word-break](https://github.com/jason-te-sde/LeetCode_List/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jason-te-sde/LeetCode_List/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/jason-te-sde/LeetCode_List/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/jason-te-sde/LeetCode_List/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/jason-te-sde/LeetCode_List/tree/master/0509-fibonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jason-te-sde/LeetCode_List/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -206,6 +208,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jason-te-sde/LeetCode_List/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jason-te-sde/LeetCode_List/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/jason-te-sde/LeetCode_List/tree/master/0300-longest-increasing-subsequence) |
 ## Depth-First Search
 |  |
 | ------- |
