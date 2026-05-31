@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/jason-te-sde/LeetCode_List/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/jason-te-sde/LeetCode_List/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/jason-te-sde/LeetCode_List/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/jason-te-sde/LeetCode_List/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/jason-te-sde/LeetCode_List/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/jason-te-sde/LeetCode_List/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0208-implement-trie-prefix-tree) |
@@ -34,6 +35,7 @@
 | [0076-minimum-window-substring](https://github.com/jason-te-sde/LeetCode_List/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/jason-te-sde/LeetCode_List/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/jason-te-sde/LeetCode_List/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/jason-te-sde/LeetCode_List/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jason-te-sde/LeetCode_List/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/jason-te-sde/LeetCode_List/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -83,6 +85,7 @@
 | [0079-word-search](https://github.com/jason-te-sde/LeetCode_List/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jason-te-sde/LeetCode_List/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/jason-te-sde/LeetCode_List/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jason-te-sde/LeetCode_List/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jason-te-sde/LeetCode_List/tree/master/0162-find-peak-element) |
@@ -108,6 +111,7 @@
 | [0070-climbing-stairs](https://github.com/jason-te-sde/LeetCode_List/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/jason-te-sde/LeetCode_List/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jason-te-sde/LeetCode_List/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/jason-te-sde/LeetCode_List/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jason-te-sde/LeetCode_List/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/jason-te-sde/LeetCode_List/tree/master/0322-coin-change) |
@@ -164,6 +168,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jason-te-sde/LeetCode_List/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/jason-te-sde/LeetCode_List/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/jason-te-sde/LeetCode_List/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -300,6 +305,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jason-te-sde/LeetCode_List/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/jason-te-sde/LeetCode_List/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jason-te-sde/LeetCode_List/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Tree
