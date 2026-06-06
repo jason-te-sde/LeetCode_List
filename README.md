@@ -35,6 +35,7 @@
 | [0076-minimum-window-substring](https://github.com/jason-te-sde/LeetCode_List/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/jason-te-sde/LeetCode_List/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/jason-te-sde/LeetCode_List/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/jason-te-sde/LeetCode_List/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/jason-te-sde/LeetCode_List/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jason-te-sde/LeetCode_List/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -191,6 +192,7 @@
 | [0027-remove-element](https://github.com/jason-te-sde/LeetCode_List/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/jason-te-sde/LeetCode_List/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/jason-te-sde/LeetCode_List/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jason-te-sde/LeetCode_List/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/jason-te-sde/LeetCode_List/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jason-te-sde/LeetCode_List/tree/master/0167-two-sum-ii-input-array-is-sorted) |
