@@ -60,6 +60,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/jason-te-sde/LeetCode_List/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/jason-te-sde/LeetCode_List/tree/master/0643-maximum-average-subarray-i) |
 ## Array
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/jason-te-sde/LeetCode_List/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/jason-te-sde/LeetCode_List/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jason-te-sde/LeetCode_List/tree/master/0417-pacific-atlantic-water-flow) |
+| [0643-maximum-average-subarray-i](https://github.com/jason-te-sde/LeetCode_List/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/jason-te-sde/LeetCode_List/tree/master/0695-max-area-of-island) |
 | [1929-concatenation-of-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jason-te-sde/LeetCode_List/tree/master/2161-partition-array-according-to-given-pivot) |
