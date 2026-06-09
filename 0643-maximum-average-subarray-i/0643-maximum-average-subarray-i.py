@@ -3,7 +3,7 @@ class Solution:
         """
             tag: sliding window
             tc : O(n)
-            sc : o(k)
+            sc : O(1)
         """
         total = sum(nums[:k])
         max_total = total
