@@ -61,6 +61,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/jason-te-sde/LeetCode_List/tree/master/0643-maximum-average-subarray-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/3634-minimum-removals-to-balance-array) |
 ## Array
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0695-max-area-of-island](https://github.com/jason-te-sde/LeetCode_List/tree/master/0695-max-area-of-island) |
 | [1929-concatenation-of-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jason-te-sde/LeetCode_List/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3634-minimum-removals-to-balance-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jason-te-sde/LeetCode_List/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/jason-te-sde/LeetCode_List/tree/master/0295-find-median-from-data-stream) |
+| [3634-minimum-removals-to-balance-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -223,6 +226,7 @@
 | [0162-find-peak-element](https://github.com/jason-te-sde/LeetCode_List/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jason-te-sde/LeetCode_List/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/jason-te-sde/LeetCode_List/tree/master/0300-longest-increasing-subsequence) |
+| [3634-minimum-removals-to-balance-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/3634-minimum-removals-to-balance-array) |
 ## Depth-First Search
 |  |
 | ------- |
