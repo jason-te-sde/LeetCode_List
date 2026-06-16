@@ -102,6 +102,7 @@
 | [0217-contains-duplicate](https://github.com/jason-te-sde/LeetCode_List/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/jason-te-sde/LeetCode_List/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/jason-te-sde/LeetCode_List/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/jason-te-sde/LeetCode_List/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/jason-te-sde/LeetCode_List/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jason-te-sde/LeetCode_List/tree/master/0417-pacific-atlantic-water-flow) |
 | [0643-maximum-average-subarray-i](https://github.com/jason-te-sde/LeetCode_List/tree/master/0643-maximum-average-subarray-i) |
@@ -317,6 +318,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jason-te-sde/LeetCode_List/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/jason-te-sde/LeetCode_List/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/jason-te-sde/LeetCode_List/tree/master/0303-range-sum-query-immutable) |
 | [2336-smallest-number-in-infinite-set](https://github.com/jason-te-sde/LeetCode_List/tree/master/2336-smallest-number-in-infinite-set) |
 ## Doubly-Linked List
 |  |
@@ -415,4 +417,8 @@
 | ------- |
 | [1929-concatenation-of-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jason-te-sde/LeetCode_List/tree/master/2161-partition-array-according-to-given-pivot) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/jason-te-sde/LeetCode_List/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
