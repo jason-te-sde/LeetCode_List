@@ -107,6 +107,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/jason-te-sde/LeetCode_List/tree/master/0417-pacific-atlantic-water-flow) |
 | [0643-maximum-average-subarray-i](https://github.com/jason-te-sde/LeetCode_List/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/jason-te-sde/LeetCode_List/tree/master/0695-max-area-of-island) |
+| [0724-find-pivot-index](https://github.com/jason-te-sde/LeetCode_List/tree/master/0724-find-pivot-index) |
 | [1929-concatenation-of-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jason-te-sde/LeetCode_List/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3634-minimum-removals-to-balance-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/3634-minimum-removals-to-balance-array) |
@@ -421,4 +422,5 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jason-te-sde/LeetCode_List/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/jason-te-sde/LeetCode_List/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
