@@ -93,6 +93,7 @@
 | [0090-subsets-ii](https://github.com/jason-te-sde/LeetCode_List/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jason-te-sde/LeetCode_List/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/jason-te-sde/LeetCode_List/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jason-te-sde/LeetCode_List/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/jason-te-sde/LeetCode_List/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jason-te-sde/LeetCode_List/tree/master/0162-find-peak-element) |
@@ -174,6 +175,7 @@
 | [0143-reorder-list](https://github.com/jason-te-sde/LeetCode_List/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jason-te-sde/LeetCode_List/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jason-te-sde/LeetCode_List/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jason-te-sde/LeetCode_List/tree/master/0225-implement-stack-using-queues) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -188,6 +190,7 @@
 | [0009-palindrome-number](https://github.com/jason-te-sde/LeetCode_List/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/jason-te-sde/LeetCode_List/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jason-te-sde/LeetCode_List/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jason-te-sde/LeetCode_List/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/jason-te-sde/LeetCode_List/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
