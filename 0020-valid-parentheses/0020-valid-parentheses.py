@@ -1,6 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         """
+            tag : stack
             Time Complexity : O(n)
             Space Complexity: O(n)
         """
