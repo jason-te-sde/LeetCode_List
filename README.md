@@ -174,6 +174,7 @@
 | [0143-reorder-list](https://github.com/jason-te-sde/LeetCode_List/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/jason-te-sde/LeetCode_List/tree/master/0225-implement-stack-using-queues) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/jason-te-sde/LeetCode_List/tree/master/0682-baseball-game) |
@@ -309,6 +310,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/jason-te-sde/LeetCode_List/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -324,6 +326,7 @@
 | [0146-lru-cache](https://github.com/jason-te-sde/LeetCode_List/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/jason-te-sde/LeetCode_List/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jason-te-sde/LeetCode_List/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/jason-te-sde/LeetCode_List/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/jason-te-sde/LeetCode_List/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/jason-te-sde/LeetCode_List/tree/master/0303-range-sum-query-immutable) |
 | [2336-smallest-number-in-infinite-set](https://github.com/jason-te-sde/LeetCode_List/tree/master/2336-smallest-number-in-infinite-set) |
