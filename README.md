@@ -108,6 +108,7 @@
 | [0322-coin-change](https://github.com/jason-te-sde/LeetCode_List/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jason-te-sde/LeetCode_List/tree/master/0417-pacific-atlantic-water-flow) |
 | [0643-maximum-average-subarray-i](https://github.com/jason-te-sde/LeetCode_List/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/jason-te-sde/LeetCode_List/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/jason-te-sde/LeetCode_List/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/jason-te-sde/LeetCode_List/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -175,6 +176,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jason-te-sde/LeetCode_List/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/jason-te-sde/LeetCode_List/tree/master/0682-baseball-game) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jason-te-sde/LeetCode_List/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jason-te-sde/LeetCode_List/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Math
@@ -420,6 +422,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/jason-te-sde/LeetCode_List/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jason-te-sde/LeetCode_List/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Prefix Sum
