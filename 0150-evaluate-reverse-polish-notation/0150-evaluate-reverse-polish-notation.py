@@ -3,7 +3,7 @@ class Solution:
         stack = []
         operators = {"+", "-", "*", "/"}
         for token in tokens:
-            if token in "+-*/":
+            if token in operators:
                 b = stack.pop()
                 a = stack.pop()
                 
@@ -14,5 +14,4 @@ class Solution:
                     stack.append(int(a / b))
             else:
                 stack.append(int(token))
-        
         return stack[0]
