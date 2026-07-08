@@ -9,6 +9,12 @@ class Node:
 from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
+
+        """
+            tag : graph
+            tc. : O(n)
+            sc. : O(n)
+        """
         if node is None:
             return None
         visited = {}
