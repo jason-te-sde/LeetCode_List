@@ -24,8 +24,7 @@ class Solution:
                 return visited[node]
             else:
                 new_val = node.val
-                new_neighbors = []
-                new_node = Node(new_val, new_neighbors)
+                new_node = Node(new_val)
                 visited[node] = new_node
 
                 for neighbor in node.neighbors:
