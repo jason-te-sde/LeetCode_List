@@ -23,8 +23,7 @@ class Solution:
             if node in visited:
                 return visited[node]
             else:
-                new_val = node.val
-                new_node = Node(new_val)
+                new_node = Node(node.val)
                 visited[node] = new_node
 
                 for neighbor in node.neighbors:
