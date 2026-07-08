@@ -20,7 +20,7 @@ class Solution:
         visited = {}
 
         def dfs(node):
-            if node in visited.keys():
+            if node in visited:
                 return visited[node]
             else:
                 new_val = node.val
