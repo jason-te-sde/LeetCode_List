@@ -1,32 +1,44 @@
 class Solution:
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
-        pac, alt = set(), set()
-        rows, cols = len(heights), len(heights[0])
-        res = []
 
-        def dfs(r, c, visited, prevHeight):
-            # not qualified
-            if r > rows - 1 or c > cols - 1 or \
-                r < 0 or c < 0 or heights[r][c] < prevHeight or (r, c) in visited:
-                return 
+        if not heights: return []
+        
 
-            visited.add((r, c))
+        p_queue = deque()
+        a_queue = deque() 
 
-            directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
-            for dr, dc in directions:
-                dfs(r + dr, c + dc, visited, heights[r][c])
+        m, n = len(heights), len(heights[0])
+        for i in range(m):
+            p_queue.append((i, 0))
+            a_queue.append((i, n - 1))
+        for j in range(n):
+            p_queue.append((0, j))
+            a_queue.append((m - 1, j))
+
+        def bfs(queue):
+            visited = set(queue)
+            directions = {(1, 0), (-1, 0), (0, 1), (0, -1)}
+            while queue:
+                r, c = queue.popleft()
+                for dr, dc in directions:
+                    nr, nc = r + dr, c + dc
+                    if 0 <= nr < m and 0 <= nc < n and (nr, nc) not in visited \
+                    and heights[nr][nc] >= heights[r][c]:
+                        visited.add((nr, nc))
+                        queue.append((nr, nc))
             
-        for c in range(cols):
-            dfs(0, c, pac, heights[0][c])
-            dfs(rows - 1, c, alt, heights[rows - 1][c])
+            return visited
         
-        for r in range(rows):
-            dfs(r, 0, pac, heights[r][0])
-            dfs(r, cols - 1, alt, heights[r][cols - 1])
+        p_visited = bfs(p_queue)
+        a_visited = bfs(a_queue)
+
+        return list(p_visited & a_visited)
+
+                
+
+
         
-        for r in range(rows):
-            for c in range(cols):
-                if (r, c) in pac and (r, c) in alt:
-                    res.append([r, c])
-        return res
         
+        
+
+
