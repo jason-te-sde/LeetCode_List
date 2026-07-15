@@ -1,5 +1,10 @@
 class Solution:
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
+        """
+            tag : graph, bfs
+            tc. : O(mn)
+            sc. : O(mn) 
+        """
 
         if not heights: return []
         
