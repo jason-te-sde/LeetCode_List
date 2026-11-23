@@ -2,9 +2,9 @@ class Solution:
     def findMaxAverage(self, nums: list[int], k: int) -> float:
         res = float("-inf")
         cur = 0
-        for i, right in enumerate(nums):
+        for i, num in enumerate(nums):
             # 1. in
-            cur += right
+            cur += num
             
             left = i - k + 1
             if left < 0:
