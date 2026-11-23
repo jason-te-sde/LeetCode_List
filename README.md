@@ -63,6 +63,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jason-te-sde/LeetCode_List/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/jason-te-sde/LeetCode_List/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jason-te-sde/LeetCode_List/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jason-te-sde/LeetCode_List/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3634-minimum-removals-to-balance-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/3634-minimum-removals-to-balance-array) |
 ## Array
@@ -115,6 +116,7 @@
 | [0682-baseball-game](https://github.com/jason-te-sde/LeetCode_List/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/jason-te-sde/LeetCode_List/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/jason-te-sde/LeetCode_List/tree/master/0724-find-pivot-index) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jason-te-sde/LeetCode_List/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jason-te-sde/LeetCode_List/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1929-concatenation-of-array](https://github.com/jason-te-sde/LeetCode_List/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jason-te-sde/LeetCode_List/tree/master/2161-partition-array-according-to-given-pivot) |
