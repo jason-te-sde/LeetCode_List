@@ -1,6 +1,6 @@
 class Solution:
     def numOfSubarrays(self, arr: list[int], k: int, threshold: int) -> int:
-        threshold = threshold * k
+        target = threshold * k
         cur = 0
         res = 0
         for i, x in enumerate(arr):
@@ -12,7 +12,7 @@ class Solution:
                 continue
             
             # 2. update
-            if cur >= threshold:
+            if cur >= target:
                 res += 1
             
             # 3. out
