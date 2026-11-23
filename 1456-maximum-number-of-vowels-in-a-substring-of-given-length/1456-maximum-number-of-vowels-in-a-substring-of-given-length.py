@@ -1,7 +1,7 @@
 class Solution:
     def maxVowels(self, s: str, k: int) -> int:
         res = cur = 0
-        vowels = "aeiou"
+        vowels = set("aeiou")
         
         for i, c in enumerate(s): # right 
             if c in vowels:
